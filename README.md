@@ -1,16 +1,11 @@
-### Hi there 👋
+<h2 align="center">Web & Blockchain Developer</h2>
+<p align="center"><i>PHP | Solidity | Rust</i><p>
 
-<!--
-**wjhames/wjhames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://t.me/wjhames">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
+    </a> &nbsp;&nbsp;&nbsp;
+    <a href="https://m.me/wjhames">
+        <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook Profile" height="30" width="30">
+    </a> &nbsp;&nbsp;&nbsp;
+</div>
