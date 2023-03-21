@@ -1,4 +1,4 @@
-<h2 align="center">Web Developer | SEO Nerd | Addicted to Data</h2>
+<h2 align="center">SEO Nerd | Addicted to Data | Artificial Intelligence Enthusiast</h2>
 <p align="center"><i>PHP | Python | Ruby</i><p>
 
 <div align="center">
