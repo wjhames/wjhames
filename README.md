@@ -1,5 +1,5 @@
 <h2 align="center">Web Developer | SEO Nerd | Addicted to Data</h2>
-<p align="center"><i>PHP | Python | Solidity</i><p>
+<p align="center"><i>PHP | Python | Ruby</i><p>
 
 <div align="center">
     <a href="https://t.me/wjhames">
