@@ -1,5 +1,5 @@
-<h2 align="center">SEO Nerd | Addicted to Data | AI Enthusiast</h2>
-<p align="center"><i>PHP | Python | Ruby</i><p>
+<h2 align="center">Generative AI Specialist</h2>
+<p align="center"><i>Text & image generation</i><p>
 
 <div align="center">
     <a href="https://t.me/wjhames">
